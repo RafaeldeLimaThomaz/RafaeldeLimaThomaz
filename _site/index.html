@@ -3,15 +3,29 @@
   <head>
   <title>Test Page: Don't Panic!</title>
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/fonts/fontawesome-free-5.13.0-web/css/all.min.css">
+  <link rel="stylesheet" href="/css/main.css">
 </head>
   <body>
   	<header class="header">
 	<nav>
+		<input type="checkbox" id="mobile-menu" class="mobile-menu-check">
+		<label for="mobile-menu" class="show-mobile-menu">Menu</label>
 		<ul class="header-nav nav-links">
 			<li><a href="/">Home</a></li>
 <li><a href="/gallery">Gallery</a></li>
-<li><a href="/blog">Blog</a></li>
+<li class="dropdown">
+  <span class="drop-trigger">Blog</span>
+  <ul class="drop-menu">
+    <li>Recent Posts</li>
+    
+      <li><a href="/2020/05/07/title-of-post.html">This is the title of the post</a></li>
+    
+      <li><a href="/2020/05/06/title-of-post.html">This is the title of the post</a></li>
+    
+  </ul>
+</li>
 <li><a href="/2020/05/07/title-of-post.html">Newest Post</a></li>
 		</ul>
 	</nav>
@@ -26,13 +40,14 @@
       <h1>CODE DANGEROUSLY</h1>
       <ul class="social-list">
 	    <li>
-	      <a href="https://example.com/" class="social-link">Fb</a>
+	      <a href="https://facebook.com/learnenough" class="social-link"><i class="fab fa-facebook"></i>
+	      </a>
 	    </li>
 	    <li>
-	      <a href="https://example.com/" class="social-link">Tw</a>
+	      <a href="https://twitter.com/learnenough" class="social-link"><i class="fab fa-twitter"></i></a>
 	    </li>
 	    <li>
-	      <a href="https://example.com/" class="social-link">Gh</a>
+	      <a href="https://github.com/learnenough" class="social-link"><i class="fab fa-github"></i></a>
         </li>
       </ul>
     </div>
@@ -131,7 +146,17 @@ particular to interest me on shore, I thought I would sail about a little and se
   	<ul class="footer-nav nav-links">
   	  <li><a href="/">Home</a></li>
 <li><a href="/gallery">Gallery</a></li>
-<li><a href="/blog">Blog</a></li>
+<li class="dropdown">
+  <span class="drop-trigger">Blog</span>
+  <ul class="drop-menu">
+    <li>Recent Posts</li>
+    
+      <li><a href="/2020/05/07/title-of-post.html">This is the title of the post</a></li>
+    
+      <li><a href="/2020/05/06/title-of-post.html">This is the title of the post</a></li>
+    
+  </ul>
+</li>
 <li><a href="/2020/05/07/title-of-post.html">Newest Post</a></li>	
   	</ul>
   </nav>
