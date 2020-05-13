@@ -55,13 +55,17 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;	
-  font-family: helvetica, arial, sans;
+  font-family: 'Open Sans',helvetica, arial, sans;
 }
 .content-container {
 	display: flex;
 	flex: 1 1 auto;
 	padding-top: 10vh;
 	width: 100%;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Raleway', helvetica, sans;
+	font-weight: 100;
 }
 h1 {
   font-size: 7vw;
@@ -547,10 +551,11 @@ h4 {
 }
 .bio-box h3 {
   color: #ed6e2f;
+  font-family: 'Kalam', cursive;
+  font-weight:100;
   font-size: 1.5em;
   margin: -40px 0 1em;
   text-align: center;
-  text-transform: uppercase;
 }
 .bio-box img {
   width: 100%;
