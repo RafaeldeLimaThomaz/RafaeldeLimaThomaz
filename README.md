@@ -5,7 +5,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaeldeLimaThomaz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=radical)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark)
 
