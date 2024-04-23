@@ -7,8 +7,8 @@
 
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-    <div style="margin: 2px"><img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/></div>
-    <div style="margin: 2px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/></div>
+    <div><img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/></div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/></div>
 </div>
 
 
