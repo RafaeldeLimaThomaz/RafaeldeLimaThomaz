@@ -7,17 +7,10 @@
 
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/>
+    <div style="margin: 5"><img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/></div>
+    <div style="margin: 5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/></div>
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/></td>
-  </tr>
-</table>
-  
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/output/github-contribution-grid-snake-dark.svg" />
 
