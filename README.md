@@ -24,7 +24,7 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" alt="jupyter" width="45" height="45"/>
+<img src="https://github.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/blob/main/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963e258c2.3736393915231655399271.png" alt="jupyter" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
