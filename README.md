@@ -9,4 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark)
 
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"></img>>
+</picture>
+
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/output/github-contribution-grid-snake-dark.svg" />
