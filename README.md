@@ -2,6 +2,10 @@
   <img src="https://github.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/blob/main/Design sem nome-2.gif" width="600" height="150"/>
 </div>
 
+<br>
+<br>
+<br>
+<br>
 
 ## :chart_with_upwards_trend: My Github history!
 <br>
