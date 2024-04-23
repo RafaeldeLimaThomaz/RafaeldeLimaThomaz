@@ -5,13 +5,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaeldeLimaThomaz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<picture>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/>
-</picture>
 
-<picture>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/>
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/output/github-contribution-grid-snake-dark.svg" />
 
