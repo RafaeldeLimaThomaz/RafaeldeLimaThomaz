@@ -6,7 +6,7 @@
 ## :chart_with_upwards_trend: My Github history!
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=theme=highcontrast" width="342"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=highcontrast" width="342"/>
     <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast" width="450"/>
 </div>
 
