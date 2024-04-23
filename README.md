@@ -6,9 +6,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RafaeldeLimaThomaz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-    <img style="margin: 2px" src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/>
-    <img style="margin: 2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/>
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 
