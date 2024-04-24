@@ -10,8 +10,8 @@
 ## :chart_with_upwards_trend: My Github history!
 <br>
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=highcontrast" style="height: 150px; width: auto;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast" style="height: 150px; width: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=highcontrast" style="height: 250px; width: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast" style="height: 250px; width: auto;"/>
 </div>
 
 
