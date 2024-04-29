@@ -36,7 +36,7 @@
     "Intern - Nanosatellite projects, Samara - RU",
   ]
   
-"currently_learning": ["TensorFlow, "Docker", "ML"],
+"currently_learning": ["TensorFlow", "Docker", "ML"],
 "hobbies": ["Guitar", "Violin", "Bass", "Music", "Electronics"]
 
 ````
