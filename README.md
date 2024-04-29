@@ -21,7 +21,6 @@
     "Information Technologist (in progress)"
   ]
 
-
 "fields_of_interests":
   [
     "Data Science",
@@ -31,15 +30,14 @@
 
 "technical_background":
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Laravel Backend developer"
+    "Intern - Embedding Quantum algorithms, D-Wave 2",
+    "Intern - Laravel Developer",
+    "Intern - Nanosatellite projects, Samara - RU",
   ]
   
-"currently_learning": ["Docker, Kubernetes, and React Native"]
-"hobbies": ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+"currently_learning": ["TensorFlow, Docker, ML"]
+"hobbies": ["Guitar", "Violin", "Bass", "Music", "Electronics"]
 
 ````
 
