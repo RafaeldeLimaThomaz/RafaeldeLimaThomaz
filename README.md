@@ -10,9 +10,9 @@
 
 ````json
 
-name: Piyush Malhotra,
-located_in: Calgary, Alberta,
-current_job: Full Stack Developer,
+name: Piyush Malhotra;
+located_in: Calgary, Alberta;
+current_job: Full Stack Developer;
 
 education:
   [
