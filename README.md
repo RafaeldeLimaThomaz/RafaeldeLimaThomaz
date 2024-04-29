@@ -40,17 +40,6 @@
 "hobbies": ["Guitar", "Violin", "Bass", "Music", "Electronics"]
 
 ````
-
-## :chart_with_upwards_trend: My Github history!
-<br>
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=highcontrast" style="height: 13em; width: auto;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast" style="height: 13em; width: auto;"/>
-</div>
-
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/output/github-contribution-grid-snake-dark.svg" />
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
@@ -71,6 +60,16 @@
 <img src="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/c3419cebd6e0f4039108d1d4f9ab4a6fe4cf9a55783e3f794ff3188c383c29a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" alt="mac" width="45" height="45"/>
 </p>
+
+## :chart_with_upwards_trend: My Github history!
+<br>
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldeLimaThomaz&layout=compact&theme=highcontrast" style="height: 13em; width: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaeldeLimaThomaz&show_icons=true&theme=highcontrast" style="height: 13em; width: auto;"/>
+</div>
+
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RafaeldeLimaThomaz/RafaeldeLimaThomaz/output/github-contribution-grid-snake-dark.svg" />
 
 <br>
 
