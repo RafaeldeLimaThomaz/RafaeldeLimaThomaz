@@ -11,8 +11,35 @@
 ````json
 
 "name": "Rafael de Lima Thomaz",
-located_in: Calgary, Alberta,
-current_job: Full Stack Developer,
+"location": "Foz do Iguaçu, BR",
+"current_job": "Technical Consultant",
+"company": "Wall Street Documents",
+
+"education":
+  [
+    "Mechanical Engineer",
+    "Information Technologist (in progress)"
+  ]
+
+
+"fields_of_interests":
+  [
+    "Data Science",
+    "Machine Learning",
+    "Web/Mobile development",
+  ]
+
+"technical_background":
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+"currently_learning": ["Docker, Kubernetes, and React Native"]
+"hobbies": ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 ````
 
