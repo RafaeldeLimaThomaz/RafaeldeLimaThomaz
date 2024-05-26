@@ -21,8 +21,8 @@
 
 "fields_of_interests":
   [
+    "AI",
     "Data Science",
-    "Machine Learning",
     "Web/Mobile development",
   ]
 
